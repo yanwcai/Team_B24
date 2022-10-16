@@ -2,7 +2,7 @@
 
 Instructions:
 
-git clone repo
+git clone repo (master branch)
 
 go to the repo
 
